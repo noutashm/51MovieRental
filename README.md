@@ -1,6 +1,6 @@
 # 51MovieRental
 
-This project is a java Movie Rental Management System <br>
+This project is a simple java Movie Rental Management System <br>
 
 ## Login Screen
 ![image](https://user-images.githubusercontent.com/29742451/159627535-5bfd80e2-f647-4b09-a4ae-d30a89ddbabf.png)
